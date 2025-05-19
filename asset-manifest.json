@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Siham-portfolio/static/css/main.6da235b4.css",
+    "main.js": "/Siham-portfolio/static/js/main.69ac25a6.js",
+    "static/js/488.afa26497.chunk.js": "/Siham-portfolio/static/js/488.afa26497.chunk.js",
+    "static/media/project_img_1.png": "/Siham-portfolio/static/media/project_img_1.d489134efc46f85bdc69.png",
+    "static/media/driftx_img.png": "/Siham-portfolio/static/media/driftx_img.a4077df3b22551fed244.png",
+    "static/media/almasref_img.png": "/Siham-portfolio/static/media/almasref_img.c5fdce27379f3f1082fa.png",
+    "static/media/fa-solid-900.ttf": "/Siham-portfolio/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/Siham-portfolio/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/Montserrat-Regular.ttf": "/Siham-portfolio/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
+    "static/media/fa-solid-900.woff2": "/Siham-portfolio/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/Siham-portfolio/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/lego.png": "/Siham-portfolio/static/media/lego.22b37aef52bff6ef026e.png",
+    "static/media/OAB.png": "/Siham-portfolio/static/media/OAB.8e3a205cb3db4fa60439.png",
+    "static/media/fa-regular-400.ttf": "/Siham-portfolio/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/fa-regular-400.woff2": "/Siham-portfolio/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Siham-portfolio/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Siham-portfolio/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/Siham-portfolio/index.html",
+    "main.6da235b4.css.map": "/Siham-portfolio/static/css/main.6da235b4.css.map",
+    "main.69ac25a6.js.map": "/Siham-portfolio/static/js/main.69ac25a6.js.map",
+    "488.afa26497.chunk.js.map": "/Siham-portfolio/static/js/488.afa26497.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6da235b4.css",
+    "static/js/main.69ac25a6.js"
+  ]
+}
