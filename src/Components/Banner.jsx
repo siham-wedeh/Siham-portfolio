@@ -46,7 +46,7 @@ function Banner() {
         </div>
         <div className="flex-buttons">
           <div className="btn">
-            <a href="/siham_cv.pdf" download="siham_cv.pdf">
+            <a href="/Siham-portfolio/siham_cv.pdf" download="siham_cv.pdf">
               <span>My Resume</span> 
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" className="w-full h-auto !w-6 ml-1">
                 <path fill="none" d="M0 0h24v24H0z" />
