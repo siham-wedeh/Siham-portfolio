@@ -37,7 +37,7 @@ function Banner() {
       </div>
       <div className="text-dec " data-aos="fade-left">
         <div> 
-          Hi all, I'meeeeeeeeeeeeeee
+          Hi all, I'm
           <br />
           <span ref={autoTextRef} className="color-title"></span>
         </div>
