@@ -36,7 +36,7 @@ function Banner() {
         </svg>
       </div>
       <div className="text-dec " data-aos="fade-left">
-        <div>
+        <div> 
           Hi all, I'm
           <br />
           <span ref={autoTextRef} className="color-title"></span>
