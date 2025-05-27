@@ -26,6 +26,7 @@ const Data_qualifications = {
             progress: "99%",
             rate:"99%"
         },
+        
     ],
     Back_end: [
         {
@@ -38,23 +39,20 @@ const Data_qualifications = {
             progress: "60%",
             rate:"60"
         },
-        {
-            lable: "OOP",
-            progress: "70%",
-            rate:"70"
-        },
+       
         {
             lable: "Strapi",
             progress: "70%",
             rate:"70"
         },
+      
         {
-            lable: "Git, Github, Gitlab",
+            lable: "WordPress, PHP",
             progress: "70%",
             rate:"70"
         },
         {
-            lable: "WordPress, PHP",
+            lable: "Git, Github, Gitlab",
             progress: "70%",
             rate:"70"
         },
