@@ -8,6 +8,7 @@ function Links() {
                 <a href='#about'>About</a>
                 
                 <a href="#statistics">Statistics </a>
+                <a href='#Qualification'>Qualification</a>
                 <a href="#skills">Skills</a>
                 <a href="#projects">Projects</a>
             </div>
