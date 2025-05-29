@@ -150,7 +150,7 @@ body{
     backdrop-filter: blur(21px);
     border-radius: 8px;
     width: 63%;
-    height: fit-content;
+    /* height: fit-content; */
     padding: 3rem 1rem;
     pointer-events: none;
     visibility: hidden;
