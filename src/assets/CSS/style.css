@@ -238,7 +238,7 @@ body{
 .banner .text-dec div:first-of-type{
     color:var(--text-color);
     font-weight: 900;
-    font-family: 'Roboto';
+    /* font-family: 'Roboto'; */
     transition: all 0.3s ease-in-out;
 }
 .banner .text-dec div:first-of-type.btn{
