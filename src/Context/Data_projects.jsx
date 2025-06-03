@@ -31,7 +31,7 @@ const Data_projects = [
     },
     {
         title: "Meerab Properties LLC",
-        description: "Mareeb Real Estate is a real estate website I worked on as a freelance frontend developer . The project was built using Laravel on the backend, while I handled the frontend design and development . I focused on creating a responsive user interface that allows visitors to easily browse and filter property listings across all devices.",
+        description: "Mareeb Real Estate is a real estate website I worked on as a freelance frontend developer . The project was built using Laravel on the backend, while I handled the frontend design and development .",
         img:meerab_img,
         tags: '#HTML #CSS #JS #Laravel',
         link: 'https://meerabproperties.com/',
