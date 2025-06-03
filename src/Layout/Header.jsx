@@ -29,7 +29,7 @@ function Header() {
                     </button>   
                 </div>
             </div>
-            <PopUP isDarkMode={isDarkMode} switchTheme ={switchTheme} isPopupOpen={isPopupOpen}/>
+            <PopUP isDarkMode={isDarkMode} switchTheme ={switchTheme} isPopupOpen={isPopupOpen} closePopup={togglePopup}/>
         </>
 
       

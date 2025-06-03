@@ -3,6 +3,8 @@ import driftx_img from '../assets/images/driftx_img.png';
 import almasref_img from '../assets/images/almasref_img.png';
 import LEGO_img from '../assets/images/lego.png';
 import bank_img from '../assets/images/OAB.png';
+import meerab_img from '../assets/images/meerab.png';
+import tickdot_img from '../assets/images/tickdot.png';
 const Data_projects = [
     {
         title: "GIFIS",
@@ -28,12 +30,29 @@ const Data_projects = [
 
     },
     {
+        title: "Meerab Properties LLC",
+        description: "Mareeb Real Estate is a real estate website I worked on as a freelance frontend developer . The project was built using Laravel on the backend, while I handled the frontend design and development . I focused on creating a responsive user interface that allows visitors to easily browse and filter property listings across all devices.",
+        img:meerab_img,
+        tags: '#HTML #CSS #JS #Laravel',
+        link: 'https://meerabproperties.com/',
+
+    },
+    {
         title: "ATM screen (ALIZZ Bank) and (OAB Bank)",
         description: "I develop custom ATM screen interfaces that feature secure login systems , virtual keyboards , and smooth user interaction flows . ",
         img:bank_img,
         tags: '#HTML #CSS #JS',
 
     },
+    {
+        title: "Landing page like TickDot",
+        description: "Ensure the Tickdot screen is fully responsive across all screen sizes and supports seamless language switching for multilingual users.",
+        img:tickdot_img,
+        tags: '#HTML #CSS #JS #Laravel',
+        link: 'https://tickdot.app/en',
+
+    },
+
     {
         title: "LEGOLAND®",
         description: "Designed and developed responsive email templates for LEGOLAND® Dubai and LEGOLAND® Water Park,promoting LEGO®-themed attractions and events to families. Focused on creating engaging, brand-consistent, and mobile-friendly emails.",
