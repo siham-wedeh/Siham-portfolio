@@ -2,7 +2,10 @@
     font-family: "Montserrat";
     src: url("../fonts/Montserrat-Regular.ttf") format("truetype");
 }
-
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
 
 :root {
     --bg-color: #f0f0f0;
@@ -360,6 +363,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
     gap:1rem;
     flex-direction: column;
 }
