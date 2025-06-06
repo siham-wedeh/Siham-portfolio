@@ -2,6 +2,18 @@
     font-family: "Montserrat";
     src: url("../fonts/Montserrat-Regular.ttf") format("truetype");
 }
+@font-face {
+  font-family: "Montserrat-bold";
+  src: url("../fonts/Montserrat-Bold.otf") format("truetype");
+}
+@font-face {
+  font-family: "Montserrat-SemiBold";
+  src: url("../fonts/Montserrat-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Montserrat-Medium";
+  src: url("../fonts/Montserrat-Medium.ttf") format("truetype");
+}
 html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
@@ -100,7 +112,7 @@ body{
 .header .content .links a{
     text-decoration: none;
     font-size: 16px;
-    font-weight: 400;
+    font-family: "Montserrat-SemiBold";
     color:var(--text-color);
     transition: all 0.3s ease-in-out;
 
@@ -190,7 +202,7 @@ body{
 .popup-mobile .content .links a{
     color: var(--button-color);
     text-decoration: none;
-    font-weight: 900;
+    font-family: "Montserrat-SemiBold";
     font-size: 16px;
 }
 .popup-mobile .content .links a img{
@@ -240,8 +252,7 @@ body{
 }
 .banner .text-dec div:first-of-type{
     color:var(--text-color);
-    font-weight: 900;
-    /* font-family: 'Roboto'; */
+    font-family: "Montserrat-bold";
     transition: all 0.3s ease-in-out;
 }
 .banner .text-dec div:first-of-type.btn{
@@ -249,7 +260,7 @@ body{
 }
 .banner .text-dec span{
     color:rgb(234 179 8)!important;
-    font-weight: 900;
+    font-family: "Montserrat-bold";
 }
 .banner .btn svg path:last-child{
     stroke: rgb(234 179 8) !important;
@@ -321,14 +332,14 @@ body{
 }
 .statistics .content .title div:first-child{
     font-size: 50px;
-    font-weight: 900;
+    font-family: "Montserrat-bold";
     color:var(--text-color)
 
 }
 
 .statistics .content .title div:last-child{
     color:rgb(234 179 8);
-    font-weight: 600;
+    font-family: "Montserrat-Medium";
     
 }
 .statistics .content .title.flex-col,
@@ -350,7 +361,7 @@ body{
 }
 .statistics .content .grid .number{
     font-size: 70px;
-    font-weight: 900;
+    font-family: "Montserrat-SemiBold";
     color:var(--text-color)
 }
 .challenges-number{
@@ -389,7 +400,7 @@ body{
     padding: 2rem 0;
     text-align: center;
     font-size: 50px;
-    font-weight: 900;
+    font-family: "Montserrat-bold";
     color:var(--text-color)
   }
   .timeline-section .buttons{
@@ -428,53 +439,9 @@ body{
   .projects .title.flex-col div:last-child{
     color: rgb(234 179 8);
     font-size: 16px;
-    font-weight: 900;
-  }
-  /* .timeline-item {
-    position: relative;
-    padding-left: 50px;
-    margin-bottom: 50px;
+    font-family: "Montserrat-Medium";
   }
   
-  .timeline-circle {
-    position: absolute;
-    left: 10px;
-    top: 0;
-    width: 20px;
-    height: 20px;
-    background-color: #2a33a6;
-    border-radius: 50%;
-    z-index: 1;
-  }
-
-  .timeline-content {
-    padding: 10px 15px;
-    background-color: #f9f9f9;
-    border: 1px solid #ddd;
-    border-radius: 6px;
-  }
-  
-  .timeline-line {
-    position: absolute;
-    top: 0;
-    left: 19px;
-    width: 2px;
-    background-color: #2a33a6;
-    height: 0;
-    z-index: 0;
-    transition: height 0.5s ease-in-out;
-  }
-  
-  .timeline-content h3 {
-    margin-top: 0;
-  }
-  
-  .timeline-content span {
-    display: block;
-    margin-top: 10px;
-    font-size: 0.9em;
-    color: #777;
-  } */
   .timeline-section {
     position: relative;
     overflow: hidden;
@@ -690,13 +657,13 @@ body{
 }
 .contact_me .content .title div:first-child{
     font-size: 50px;
-    font-weight: 900;
+    font-family: "Montserrat-bold";
     color: var(--text-color);
 }
 
 .contact_me .title div:last-child{
     color: rgb(234 179 8);
-    font-weight: 900;
+    font-family: "Montserrat-bold";
 }
 .contact_me .content .grid{
     display: grid;
@@ -719,7 +686,7 @@ body{
   color:var(--text-color)
 }
 .sub-title{
-    font-weight: bolder;
+  font-family: "Montserrat-bold";
     font-size: 20px;
     padding-bottom: 0.2rem;
 }
@@ -776,7 +743,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 5rem 0 2rem 0;
+    padding: 4rem 0 2rem 0;
 }
 .skills .flex_row{
   margin: 1rem 0;
@@ -790,7 +757,7 @@ body{
   margin-left: 8px;
   font-weight: bold;
   color: var(--text-color); 
-  font-weight: 700;
+  font-family: "Montserrat-bold";
   transition: all 0.3s ease;
 }
 .title_type_skill{
@@ -804,7 +771,7 @@ body{
   display: flex;
   align-items: center;
   gap: 1rem;
-  font-weight: 800;
+  font-family: "Montserrat-bold";
   font-size: 21px;
 }
 .content_front .rows{
@@ -849,14 +816,14 @@ body{
     padding: 2rem 0;
     text-align: center;
     font-size: 50px;
-    font-weight: 900;
+    font-family: "Montserrat-bold";
     color: var(--text-color);
 }
 
 .skills .title.flex-col div:last-child{
     color: rgb(234 179 8);
     font-size: 16px;
-    font-weight: 900;
+    font-family: "Montserrat-bold";
 }
 
 .skill h3 {
@@ -905,7 +872,11 @@ padding-top: 1rem;
 }
 .tags{
   color:var(--text-color);
-  font-weight: 800;
+  font-family: "Montserrat-SemiBold";
+}
+.contact_me .title div:last-child{
+  font-family: "Montserrat-Medium";
+
 }
 .projects .project-card .flex{
   display: flex;
@@ -919,6 +890,18 @@ padding-top: 1rem;
    background-color: rgb(234 179 8);
    border-radius: 6px;
    font-weight: 700;
+}
+.skills .content .title.flex-col div, .projects .content .title.flex-col div,
+.timeline-section .title.flex-col div, .projexts .title.flex-col div{
+  font-family: "Montserrat-Medium";
+
+}
+.skills .content .title.flex-col div.color-title, 
+.projects .content .title.flex-col div.color-title,
+.timeline-section .title.flex-col div.color-title, 
+.projexts .title.flex-col div.color-title{
+  font-family: "Montserrat-bold";
+
 }
 .projects .project-card .title{
   font-size: 30px;
@@ -962,6 +945,7 @@ p.desc{
 }
 .hamb-icon button span {
   transition: 0.3s;
+  
 }
 
 body.menu-open .hamb-icon button span:nth-child(1) {
@@ -978,4 +962,7 @@ body.menu-open .hamb-icon button span:nth-child(3) {
 body.menu-open {
   overflow: hidden;
 
+}
+.footer .content .name{
+font-family: "Montserrat-SemiBold";
 }

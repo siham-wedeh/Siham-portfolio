@@ -6,7 +6,7 @@ function Footer() {
         <div className="footer">
             <div className="content grid">
                 <div className="col">2025 © All Rights Reserved</div>
-                <div className="col">Siham Wedeh</div>
+                <div className="col name">Siham Wedeh</div>
                 <div className="col flex">
                 <Social_icons />
                 </div>
