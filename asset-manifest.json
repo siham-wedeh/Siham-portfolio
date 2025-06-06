@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/Siham-portfolio/static/css/main.1b7b8146.css",
-    "main.js": "/Siham-portfolio/static/js/main.f8daaf83.js",
+    "main.css": "/Siham-portfolio/static/css/main.8c88c032.css",
+    "main.js": "/Siham-portfolio/static/js/main.80b2f883.js",
     "static/js/488.afa26497.chunk.js": "/Siham-portfolio/static/js/488.afa26497.chunk.js",
     "static/media/project_img_1.png": "/Siham-portfolio/static/media/project_img_1.34d01ed3173dba42a28d.png",
     "static/media/meerab.png": "/Siham-portfolio/static/media/meerab.d80bdabe65314b4c50b0.png",
     "static/media/driftx_img.png": "/Siham-portfolio/static/media/driftx_img.a4077df3b22551fed244.png",
     "static/media/almasref_img.png": "/Siham-portfolio/static/media/almasref_img.c5fdce27379f3f1082fa.png",
     "static/media/fa-solid-900.ttf": "/Siham-portfolio/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/Siham-portfolio/static/media/Montserrat-SemiBold.38e62f01be69b2e02e29.ttf",
+    "static/media/Montserrat-Medium.ttf": "/Siham-portfolio/static/media/Montserrat-Medium.d3f3d769c2fc1af5c0b4.ttf",
     "static/media/tickdot.png": "/Siham-portfolio/static/media/tickdot.dde4ce7d4169e58f13ba.png",
+    "static/media/Montserrat-Bold.otf": "/Siham-portfolio/static/media/Montserrat-Bold.a6bc51efd33e2f7f1b95.otf",
     "static/media/fa-brands-400.ttf": "/Siham-portfolio/static/media/fa-brands-400.1815e00441357e01619e.ttf",
     "static/media/Montserrat-Regular.ttf": "/Siham-portfolio/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
     "static/media/fa-solid-900.woff2": "/Siham-portfolio/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
@@ -20,12 +23,12 @@
     "static/media/fa-v4compatibility.ttf": "/Siham-portfolio/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/Siham-portfolio/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/Siham-portfolio/index.html",
-    "main.1b7b8146.css.map": "/Siham-portfolio/static/css/main.1b7b8146.css.map",
-    "main.f8daaf83.js.map": "/Siham-portfolio/static/js/main.f8daaf83.js.map",
+    "main.8c88c032.css.map": "/Siham-portfolio/static/css/main.8c88c032.css.map",
+    "main.80b2f883.js.map": "/Siham-portfolio/static/js/main.80b2f883.js.map",
     "488.afa26497.chunk.js.map": "/Siham-portfolio/static/js/488.afa26497.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b7b8146.css",
-    "static/js/main.f8daaf83.js"
+    "static/css/main.8c88c032.css",
+    "static/js/main.80b2f883.js"
   ]
 }
