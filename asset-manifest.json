@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Siham-portfolio/static/css/main.8c88c032.css",
-    "main.js": "/Siham-portfolio/static/js/main.80b2f883.js",
+    "main.js": "/Siham-portfolio/static/js/main.0abe889d.js",
     "static/js/488.afa26497.chunk.js": "/Siham-portfolio/static/js/488.afa26497.chunk.js",
     "static/media/project_img_1.png": "/Siham-portfolio/static/media/project_img_1.34d01ed3173dba42a28d.png",
     "static/media/meerab.png": "/Siham-portfolio/static/media/meerab.d80bdabe65314b4c50b0.png",
@@ -24,11 +24,11 @@
     "static/media/fa-v4compatibility.woff2": "/Siham-portfolio/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/Siham-portfolio/index.html",
     "main.8c88c032.css.map": "/Siham-portfolio/static/css/main.8c88c032.css.map",
-    "main.80b2f883.js.map": "/Siham-portfolio/static/js/main.80b2f883.js.map",
+    "main.0abe889d.js.map": "/Siham-portfolio/static/js/main.0abe889d.js.map",
     "488.afa26497.chunk.js.map": "/Siham-portfolio/static/js/488.afa26497.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c88c032.css",
-    "static/js/main.80b2f883.js"
+    "static/js/main.0abe889d.js"
   ]
 }
