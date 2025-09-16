@@ -615,12 +615,12 @@ body{
   }
 
   .theme-switch-wrapper .fa-sun {
-    margin-right: 7px;
+    margin:0 7px;
     color: var(--text-color);
   }
 
   .theme-switch-wrapper .fa-moon {
-    margin-left: 7px;
+    margin:0 7px;
     color: var(--text-color);
   }
 
@@ -904,7 +904,7 @@ padding-top: 1rem;
 
 }
 .projects .project-card .title{
-  font-size: 30px;
+  font-size: 28px;
   font-weight: 700;
   cursor: auto;
   color:var(--text-color);
@@ -914,7 +914,7 @@ padding-top: 1rem;
   text-decoration: underline;
 }
 .projects .project-card p{
-  font-size: 18px;
+  font-size: 16.5px;
     line-height: 30px;
     margin: 5px 0;
     color:var(--text-color)
@@ -965,4 +965,133 @@ body.menu-open {
 }
 .footer .content .name{
 font-family: "Montserrat-SemiBold";
+}
+.language-switcher {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.lang-btn {
+  background: #f0f0f0;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.lang-btn:hover {
+  background: #ddd;
+}
+
+.lang-btn.active {
+  background: #007bff;
+  color: white;
+}
+.df-switch {
+ 
+  text-align: center;
+}
+
+.btn-toggle {
+  /* margin-left: 1rem; */
+  padding: 0;
+  position: relative;
+  border: none;
+  height: 1.5rem;
+  width: 5rem;
+  border-radius: 1.5rem;
+  background: var(--switch-bg);
+  cursor: pointer;
+  transition: background-color 0.25s;
+}
+
+.btn-toggle:before,
+.btn-toggle:after {
+  content: '';
+  line-height: 1.5rem;
+  width: 4rem;
+  text-align: center;
+  font-weight: 600;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  position: absolute;
+  bottom: -1.8rem;
+  transition: opacity 0.25s;
+}
+
+.btn-toggle:before {
+  content: 'EN';
+  left: -1.7rem;
+  color: rgb(234 179 8);
+  opacity: 1;
+}
+
+.btn-toggle:after {
+  content: 'AR';
+  right: -1.7rem;
+  color: var(--light-gray);
+  opacity: 0.5;
+}
+
+.btn-toggle .inner-handle {
+  border-radius: 13px;
+  width: 65px;
+  height: 13px;
+  position: absolute;
+  top: 6px;
+  left: 8px;
+  background-color: rgb(234 179 8);
+  box-shadow: inset 1px 1px 2px -1px black;
+}
+
+.btn-toggle.active {
+  background-color: var(--switch-bg);
+}
+
+.btn-toggle.active .inner-handle {
+  background-color: var(--light-gray);
+}
+
+.btn-toggle .handle {
+  position: absolute;
+  top: -0.2875rem;
+  left: 0.3875rem;
+  width: 2.125rem;
+  height: 2.125rem;
+  border-radius: 1.125rem;
+  background: #fff;
+  border: 1px solid #ccc;
+  transition: left 0.25s;
+}
+
+.btn-toggle .handle:before {
+  content: "";
+  position: absolute;
+  height: 34px;
+  width: 34px;
+  top: 35%;
+  left: 11px;
+  background-image: radial-gradient(circle at center, rgb(234 179 8) 5px, transparent 5px);
+  background-repeat: no-repeat;
+}
+
+.btn-toggle.active .handle {
+  left: 2.4175rem;
+}
+
+.btn-toggle.active .handle:before {
+  background-image: radial-gradient(circle at center, var(--light-gray) 5px, transparent 5px);
+}
+
+.btn-toggle.active:before {
+  opacity: 0.5;
+}
+
+.btn-toggle.active:after {
+  opacity: 1;
 }

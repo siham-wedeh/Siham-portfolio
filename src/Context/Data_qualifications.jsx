@@ -11,7 +11,7 @@ const Data_qualifications = {
             title: "Freelancer",
             date: "2023-Present | Self-employed",
             description:
-              "PFreelance Front-End Developer delivering responsive, user-friendly websites and web apps. Collaborated with clients, turned designs into functional interfaces using HTML, CSS, JavaScript, and React, ensuring performance and cross-browser compatibility.",
+              "Freelance Front-End Developer delivering responsive, user-friendly websites and web apps. Collaborated with clients, turned designs into functional interfaces using HTML, CSS, JavaScript, and React, ensuring performance and cross-browser compatibility.",
         },
     ],
     Study: [

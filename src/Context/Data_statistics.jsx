@@ -9,7 +9,7 @@ const Data_statistics = [
 
     },
     {
-         number: 4,
+         number: 2,
          label: "Years of experience"
 
     }
