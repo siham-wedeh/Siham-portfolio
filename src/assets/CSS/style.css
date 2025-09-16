@@ -381,7 +381,7 @@ body{
 
 .timeline-section {
     position: relative;
-    /* padding: 50px 0; */
+    padding: 2rem 0 0;
     width: 100%;
     margin: 0 auto;
   }
@@ -624,10 +624,13 @@ body{
     color: var(--text-color);
   }
 
-.contact_me,
+  .contact_me{
+    width: 100%;
+    padding:  0;
+  }
 .projects{
     width: 100%;
-    padding: 3rem 0;
+    padding: 3rem 0 0;
 }
 .contact_me .content{
     width: 90%;
