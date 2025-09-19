@@ -1,5 +1,7 @@
 @media(max-width:1199px) and (min-width:991px){
-
+    .banner {
+        padding: 8rem 0 0 0;
+    }
     .banner .text-dec {
         width: 56%;
         font-size: 47px;

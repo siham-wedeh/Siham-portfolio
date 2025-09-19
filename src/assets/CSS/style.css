@@ -73,7 +73,7 @@ body{
     overflow-x: hidden;
     width:100%;
     height:fit-content;
-    max-width: 1900px;
+    /* max-width: 1900px; */
     margin: 0;
     padding: 0;
     scroll-behavior: smooth;
@@ -704,6 +704,7 @@ body{
 }
 .footer .content{
     padding: 1rem 0;
+    max-width: 1400px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -807,7 +808,8 @@ body{
   
 }
 .content_front:hover{
-  box-shadow: rgb(234 179 8) 0px 5px 15px;
+  box-shadow: rgba(234 ,179 , 8, 0.2) 0px 4px 16px, rgba(234 ,179 , 8, 0.05) 0px 8px 32px;
+  /* box-shadow: rgb(234 179 8) 0px 5px 15px; */
 
 }
 .skill {

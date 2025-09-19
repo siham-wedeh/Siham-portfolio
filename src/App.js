@@ -21,7 +21,7 @@ function App() {
     });
   }, []);
   return (
-    <div className="App">
+    <>
       
           <Header />
             <Banner />
@@ -33,7 +33,7 @@ function App() {
           <Footer />
       
        
-    </div>
+    </>
   );
 }
 
