@@ -7,7 +7,12 @@ const Data_qualifications = {
 
         },
         {
-            lable: "Bootstrap, Tailwind",
+            lable: "Tailwind",
+            progress: "95%",
+            rate:"95%"
+        },
+        {
+            lable: "Bootstrap",
             progress: "95%",
             rate:"95%"
         },
@@ -53,6 +58,11 @@ const Data_qualifications = {
         },
         {
             lable: "Git, Github, Gitlab",
+            progress: "70%",
+            rate:"70"
+        },
+        {
+            lable: "Next.js",
             progress: "70%",
             rate:"70"
         },

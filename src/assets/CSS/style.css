@@ -791,8 +791,8 @@ body{
 }
  .rows.open{
   padding: 1rem;
-  height: 273px;
-  max-height: 273px;
+  height: 324px;
+  max-height: 324px;
 }
 .title_type_skill .second svg {
   transition: transform 0.4s ease;
